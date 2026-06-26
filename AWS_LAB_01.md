@@ -15,12 +15,12 @@ Just because it was familiar doesn't mean I didn't mess up. I learned the hardwa
 Also setting up the security aspect of the Instance was a bit different than what I am used to with ufw and such. I didn't mess with it too much but it is definatly something I need to learn more about.
 
 ## Commands Used
-ssh -i key.pem ec2-user@[ip]
-who
-cat/etc/os-release
-ipaddr
-ps aux
-uname -a
+1. ssh -i key.pem ec2-user@[ip]
+2. who
+3. cat/etc/os-release
+4. ipaddr
+5. ps aux
+6. uname -a
 
 
 ## What Is Next?
